@@ -1,0 +1,31 @@
+/* Body */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Main */
+main {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    width: auto;
+    flex: auto;
+}
+
+/* Article */
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+/* Aside */
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+footer{
+    padding: 12px;
+    border-top: 1px solid lightgray;
+}
