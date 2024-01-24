@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# alu-web-development
-this repository contain basics of html from Alu intranet project Course  
-### Author
-    lscblack(loue sauveur christian)
-=======
 # Smile
 
 ## Author
@@ -33,4 +27,3 @@ Now, you can explore the webpage designed using pure HTML semantic elements.
 Feel free to reach out to Me, for any questions or feedback.
 
 ### Thanks !!!!
->>>>>>> d2bffd9 (Lscblack Smile Project Done)
